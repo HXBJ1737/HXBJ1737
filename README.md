@@ -14,7 +14,7 @@
 
 一名热爱嵌入式开发的工程师，专注于**嵌入式**与**边缘 AI 推理**方向。热衷于将算法部署到资源受限的边缘设备上，探索从 MCU 到 Linux 嵌入式平台的完整技术栈。
 
-> 🔭 在 [立创开源硬件平台](https://oshwhub.com/hengxingbujian) 和 [B站](https://www.bilibili.com/video/BV1dVJkzGEYg) 也能找到我的作品与分享。
+> 🔭 在 [个人博客](https://hx.sn.cn)、[立创开源硬件平台](https://oshwhub.com/hengxingbujian) 和 [B站](https://www.bilibili.com/video/BV1dVJkzGEYg) 也能找到我的作品与分享。
 
 ---
 
