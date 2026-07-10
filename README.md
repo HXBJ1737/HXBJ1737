@@ -5,7 +5,7 @@
 </picture>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=HXBJ1737&label=%E8%AE%BF%E5%AE%A2%E6%95%B0&color=blueviolet&style=flat-square" alt="访问统计" />
+  <img src="https://komarev.com/ghpvc/?username=HXBJ1737&label=%E8%AE%BF%E5%AE%A2%E6%95%B0&color=blueviolet&style=for-the-badge" alt="访问统计" />
 </div>
 
 ---
