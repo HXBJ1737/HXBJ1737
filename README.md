@@ -85,19 +85,6 @@
 
 ---
 
-## 📊 GitHub 统计
-
-<div align="center">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=HXBJ1737&show_icons=true&theme=tokyonight&include_all_commits=true&hide_border=true&locale=cn" />
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HXBJ1737&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&locale=cn" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=HXBJ1737&theme=react-dark&hide_border=true&area=true" width="90%" />
-</div>
-
----
-
 ## 📫 与我联系
 
 <p align="center">
