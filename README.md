@@ -25,15 +25,16 @@
   <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/YOLO-00FFFF?style=for-the-badge&logo=yolo&logoColor=black" />
   <img src="https://img.shields.io/badge/FPGA-1A2B3C?style=for-the-badge&logo=xilinx&logoColor=white" />
+  <img src="https://img.shields.io/badge/LLVM-CCCCCC?style=for-the-badge&logo=llvm&logoColor=white" />
+  <img src="https://img.shields.io/badge/AI Infra-CCCCCC?style=for-the-badge&logo=ai&logoColor=white" />
+  <img src="https://img.shields.io/badge/LLM-3776AB?style=for-the-badge&logo=llm&logoColor=white" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/STM32-03234B?style=for-the-badge&logo=stmicroelectronics&logoColor=white" />
 </p>
 
 ---
 
-## 🚀 开源项目
+## 🚀 工程
 
 <table>
   <tr>
@@ -55,7 +56,6 @@
         <li>🎯 目标先验 与 相机先验 两种测距模式</li>
         <li>🧠 集成 YOLO11 RKNN 模型，实现板端推理</li>
         <li>📶 WiFi 自动连接、桌面自启动</li>
-        <li>🔧 支持 Windows 开发 + 交叉编译</li>
       </ul>
     </td>
     <td width="50%">
@@ -66,7 +66,7 @@
         <img src="https://img.shields.io/github/stars/HXBJ1737/STM32_Camera?style=social" />
         <img src="https://img.shields.io/github/license/HXBJ1737/STM32_Camera?style=flat-square&color=blue" />
       </p>
-      <p align="center">基于 <b>STM32H750VBT6</b> 的 OpenMV4 简易照相机</p>
+      <p align="center">基于 <b>STM32H750VBT6</b> 的简易相机</p>
       <p align="center">
         <img src="https://img.shields.io/badge/MCU-STM32H750-03234B?style=flat-square" />
         <img src="https://img.shields.io/badge/固件-OpenMV4-00B4F0?style=flat-square" />
@@ -74,10 +74,8 @@
       </p>
       <ul>
         <li>📷 兼容 OV7725 / OV5640 / OV2640 摄像头</li>
-        <li>🖼️ 拍照、相册浏览、图片保存与删除</li>
-        <li>🎨 触摸屏画板功能</li>
-        <li>🔍 模板匹配及视觉任务</li>
-        <li>🔗 <a href="https://oshwhub.com/hengxingbujian/stm32h750vbt6-based-camera">硬件开源地址</a> | <a href="https://www.bilibili.com/video/BV1dVJkzGEYg">B站演示</a></li>
+        <li>🎨 相机、画板功能</li>
+        <li>🔍 视觉任务</li>
       </ul>
     </td>
   </tr>
